@@ -1,2 +1,2 @@
-# LeetCode-Problems
-A collection of LeeCode problems and my solutions in various programming languages
+# LeetCode-Problems by Vu Hoang
+Committing LeetCode problems I’ve solved to my repository
