@@ -1,79 +1,72 @@
-struct Node {
+class Node {
+public:
     int val;
     Node* next;
-    Node(int val) : val(val), next(nullptr) {}
+    Node(int val): val(val), next(nullptr) {}
 };
-
 class MyLinkedList {
 public:
     Node* head;
-    MyLinkedList() {
-        head = nullptr;
-    }
+    int size;
+    MyLinkedList(): head(nullptr), size(0) {}
     
     int get(int index) {
-        int count = 0;
-        Node* temp = head;
-        while (temp != nullptr) {
-            count++;
+        if (index >= size || index < 0) {
+            return -1;
         }
-        if (count == index) {
-            return temp->val;
+        Node* current = head;
+        for (int i = 0; i < index; i++) {
+            current = current->next;
         }
-        return -1;
+        return current->val;
     }
     
     void addAtHead(int val) {
-        Node* newHead = new Node(val);
-        newHead->next = head;
-        head = newHead;
+        addAtIndex(0, val);
     }
     
     void addAtTail(int val) {
-        Node* temp = head;
-        Node* newNode = new Node(val);
-        while (temp->next != nullptr) {
-            if (temp == nullptr) {
-                head->next = newNode;
-            }
-            head = head->next;
-        }
+        addAtIndex(size, val);
     }
     
     void addAtIndex(int index, int val) {
+        if (index > size || index < 0) {
+            return;
+        }
+        Node* new_node = new Node(val);
         if (index == 0) {
-            addAtHead(val);
-            return;
+            new_node->next = head;
+            head = new_node;
         }
-        Node* temp = head;
-        int count = 0;
-        while (count < index && temp != nullptr) {
-            temp = temp->next;
-            count++;
+        else {
+            Node* current = head;
+            for (int i = 0; i < index - 1; i++) {
+                current = current->next;
+            }
+            new_node->next = current->next;
+            current->next = new_node;
         }
-        if (temp == nullptr) {
-            return;
-        }
-        Node* newNode = new Node(val);
-        newNode->next = temp->next;
-        temp->next = newNode;
+        size += 1;
     }
     
     void deleteAtIndex(int index) {
-        if (head == nullptr) {
+        if (index >= size || index < 0) {
             return;
         }
-        int count = 0;
-        Node* temp = head;
-        while (count < index && temp != nullptr) {
-            temp = temp->next;
-            count++;
+        if (index == 0) {
+            Node* temp = head;
+            head = head->next;
         }
-        if (temp == nullptr) {
-            return;
+        else {
+            Node* current = head;
+            for (int i = 0; i < index - 1; i++) {
+                current = current->next;
+            }
+            Node* temp = current->next;
+            current->next = current->next->next;
+            delete temp;
         }
-        Node* nodeToDelete = temp->next;
-        temp->next = nodeToDelete->next;
+        size = size - 1;
     }
 };
 
