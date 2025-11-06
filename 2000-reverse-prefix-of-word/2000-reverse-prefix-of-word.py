@@ -3,7 +3,8 @@ class Solution:
         index = word.find(ch)
         if index == -1:
             return word
+        first_half = word[:index + 1]
+        second_half = word[index + 1:]
+        first_half_reverse = first_half[::-1]
+        return first_half_reverse + second_half
         
-        pre_reserve = word[0:index+1][::-1]
-        result = pre_reserve + word[index+1:]
-        return result
