@@ -17,7 +17,7 @@ class Solution:
             else:
                 findAll(curr.left, targetSum - curr.val, currPath, allPaths)
                 findAll(curr.right, targetSum - curr.val, currPath, allPaths)
-            currPath.pop()
+            del currPath[-1]
         allPaths = []
         findAll(root, targetSum, [], allPaths)
         return allPaths
