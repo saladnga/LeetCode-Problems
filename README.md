@@ -10,26 +10,31 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0463-island-perimeter](https://github.com/saladnga/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/saladnga/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/saladnga/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/saladnga/LeetCode-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/saladnga/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/saladnga/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/saladnga/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/saladnga/LeetCode-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/saladnga/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/saladnga/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/saladnga/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/saladnga/LeetCode-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/saladnga/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/saladnga/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/saladnga/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/saladnga/LeetCode-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/saladnga/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/saladnga/LeetCode-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
