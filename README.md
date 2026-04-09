@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saladnga/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saladnga/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0463-island-perimeter](https://github.com/saladnga/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0480-sliding-window-median](https://github.com/saladnga/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0733-flood-fill](https://github.com/saladnga/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
@@ -60,4 +61,8 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/saladnga/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saladnga/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
