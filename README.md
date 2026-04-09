@@ -52,4 +52,12 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0480-sliding-window-median](https://github.com/saladnga/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/saladnga/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/saladnga/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
