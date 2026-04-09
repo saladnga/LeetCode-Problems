@@ -65,4 +65,12 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saladnga/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/saladnga/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/saladnga/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
