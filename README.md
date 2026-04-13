@@ -90,4 +90,16 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/saladnga/LeetCode-Problems/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/saladnga/LeetCode-Problems/tree/main/1603-design-parking-system/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/saladnga/LeetCode-Problems/tree/main/1603-design-parking-system/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/saladnga/LeetCode-Problems/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
