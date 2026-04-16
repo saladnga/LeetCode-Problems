@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0463-island-perimeter](https://github.com/saladnga/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0480-sliding-window-median](https://github.com/saladnga/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0733-flood-fill](https://github.com/saladnga/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
+| [0739-daily-temperatures](https://github.com/saladnga/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/saladnga/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/saladnga/LeetCode-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Depth-First Search
@@ -74,6 +75,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/saladnga/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0739-daily-temperatures](https://github.com/saladnga/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +104,8 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/saladnga/LeetCode-Problems/tree/main/1603-design-parking-system/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/saladnga/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
