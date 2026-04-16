@@ -74,10 +74,12 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/saladnga/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/saladnga/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0394-decode-string](https://github.com/saladnga/LeetCode-Problems/tree/main/0394-decode-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/saladnga/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0394-decode-string](https://github.com/saladnga/LeetCode-Problems/tree/main/0394-decode-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/saladnga/LeetCode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -115,4 +117,8 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/saladnga/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/saladnga/LeetCode-Problems/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
