@@ -1,7 +1,12 @@
-class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        dict_strs = defaultdict(list)
+class Solution(object):
+    def groupAnagrams(self, strs):
+        """
+        :type strs: List[str]
+        :rtype: List[List[str]]
+        """
+        dict_str = defaultdict(list)
         for word in strs:
             key = "".join(sorted(word))
-            dict_strs[key].append(word)
-        return list(dict_strs.values())
+            dict_str[key].append(word)
+        return dict_str.values()
+        
