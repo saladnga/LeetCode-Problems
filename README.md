@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saladnga/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/saladnga/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/saladnga/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saladnga/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0463-island-perimeter](https://github.com/saladnga/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
@@ -34,6 +35,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/saladnga/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0463-island-perimeter](https://github.com/saladnga/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/saladnga/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/saladnga/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -47,6 +49,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saladnga/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/saladnga/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/saladnga/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0480-sliding-window-median](https://github.com/saladnga/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 ## Sliding Window
