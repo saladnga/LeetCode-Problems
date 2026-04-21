@@ -4,12 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        ans = max(nums)
-        prefix, suffix = 1, 1
-        n = len(nums)
-        for i in range(n):
-            prefix = (prefix or 1) * nums[i]
-            suffix = (suffix or 1) * nums[n - 1 - i]
-            ans = max(ans, prefix, suffix)
-        return ans
-        
+        if not nums:
+            return 0
+        max_res = max_curr = min_curr = nums[0]
+        for i in range(1, len(nums)):
+            if nums[i] < 0:
+                max_curr, min_curr = min_curr, max_curr
+            max_curr = max(nums[i], max_curr * nums[i])
+            min_curr = min(nums[i], nums[i] * min_curr)
+            max_res = max(max_res, max_curr)
+        return max_res
