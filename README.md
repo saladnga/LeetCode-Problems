@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0036-valid-sudoku](https://github.com/saladnga/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/saladnga/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saladnga/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/saladnga/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0463-island-perimeter](https://github.com/saladnga/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0480-sliding-window-median](https://github.com/saladnga/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0733-flood-fill](https://github.com/saladnga/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
@@ -124,4 +125,8 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/saladnga/LeetCode-Problems/tree/main/0394-decode-string/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/saladnga/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
