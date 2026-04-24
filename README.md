@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0049-group-anagrams](https://github.com/saladnga/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saladnga/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/saladnga/LeetCode-Problems/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/saladnga/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/saladnga/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0463-island-perimeter](https://github.com/saladnga/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0480-sliding-window-median](https://github.com/saladnga/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
@@ -70,6 +71,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/saladnga/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/saladnga/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
