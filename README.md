@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/saladnga/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/saladnga/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/saladnga/LeetCode-Problems/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0733-flood-fill](https://github.com/saladnga/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
@@ -95,6 +96,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/saladnga/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/saladnga/LeetCode-Problems/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/saladnga/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/saladnga/LeetCode-Problems/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -150,4 +153,8 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saladnga/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/saladnga/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
