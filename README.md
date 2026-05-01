@@ -172,4 +172,8 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/saladnga/LeetCode-Problems/tree/main/0133-clone-graph/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/saladnga/LeetCode-Problems/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
