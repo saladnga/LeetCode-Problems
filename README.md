@@ -181,6 +181,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0595-big-countries](https://github.com/saladnga/LeetCode-Problems/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/saladnga/LeetCode-Problems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1148-article-views-i](https://github.com/saladnga/LeetCode-Problems/tree/main/1148-article-views-i/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/saladnga/LeetCode-Problems/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/saladnga/LeetCode-Problems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/saladnga/LeetCode-Problems/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/saladnga/LeetCode-Problems/tree/main/1667-fix-names-in-a-table/) | Easy |
