@@ -177,6 +177,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/saladnga/LeetCode-Problems/tree/main/0183-customers-who-never-order/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/saladnga/LeetCode-Problems/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/saladnga/LeetCode-Problems/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/saladnga/LeetCode-Problems/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/saladnga/LeetCode-Problems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1148-article-views-i](https://github.com/saladnga/LeetCode-Problems/tree/main/1148-article-views-i/) | Easy |
