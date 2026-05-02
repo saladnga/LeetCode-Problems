@@ -186,4 +186,5 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [1741-find-total-time-spent-by-each-employee](https://github.com/saladnga/LeetCode-Problems/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/saladnga/LeetCode-Problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/saladnga/LeetCode-Problems/tree/main/1873-calculate-special-bonus/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/saladnga/LeetCode-Problems/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
