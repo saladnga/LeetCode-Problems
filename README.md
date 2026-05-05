@@ -177,6 +177,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/saladnga/LeetCode-Problems/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/saladnga/LeetCode-Problems/tree/main/0177-nth-highest-salary/) | Medium |
+| [0178-rank-scores](https://github.com/saladnga/LeetCode-Problems/tree/main/0178-rank-scores/) | Medium |
 | [0183-customers-who-never-order](https://github.com/saladnga/LeetCode-Problems/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/saladnga/LeetCode-Problems/tree/main/0184-department-highest-salary/) | Medium |
 | [0511-game-play-analysis-i](https://github.com/saladnga/LeetCode-Problems/tree/main/0511-game-play-analysis-i/) | Easy |
