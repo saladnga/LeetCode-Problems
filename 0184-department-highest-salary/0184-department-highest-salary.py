@@ -2,7 +2,7 @@ import pandas as pd
 
 def department_highest_salary(employee: pd.DataFrame, department: pd.DataFrame) -> pd.DataFrame:
     mask = employee['salary'] == employee.groupby('departmentId')['salary'].transform('max')
-    res = employee[mask].copy()
+    res = employee[mask].copy() # Prevent overwrite data
     res = res.merge(
         department,
         left_on='departmentId',
