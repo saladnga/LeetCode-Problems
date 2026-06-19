@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saladnga/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/saladnga/LeetCode-Problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saladnga/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/saladnga/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/saladnga/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0463-island-perimeter](https://github.com/saladnga/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0480-sliding-window-median](https://github.com/saladnga/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
@@ -61,6 +62,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0049-group-anagrams](https://github.com/saladnga/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saladnga/LeetCode-Problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0133-clone-graph](https://github.com/saladnga/LeetCode-Problems/tree/main/0133-clone-graph/) | Medium |
+| [0217-contains-duplicate](https://github.com/saladnga/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0480-sliding-window-median](https://github.com/saladnga/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -138,6 +140,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/saladnga/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0217-contains-duplicate](https://github.com/saladnga/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
