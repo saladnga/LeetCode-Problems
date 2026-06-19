@@ -63,6 +63,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saladnga/LeetCode-Problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0133-clone-graph](https://github.com/saladnga/LeetCode-Problems/tree/main/0133-clone-graph/) | Medium |
 | [0217-contains-duplicate](https://github.com/saladnga/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/saladnga/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0480-sliding-window-median](https://github.com/saladnga/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -92,6 +93,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/saladnga/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/saladnga/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/saladnga/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/saladnga/LeetCode-Problems/tree/main/0394-decode-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/saladnga/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 ## Stack
@@ -141,6 +143,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/saladnga/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/saladnga/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/saladnga/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
