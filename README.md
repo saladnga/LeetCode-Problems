@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saladnga/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/saladnga/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/saladnga/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/saladnga/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0463-island-perimeter](https://github.com/saladnga/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0480-sliding-window-median](https://github.com/saladnga/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0733-flood-fill](https://github.com/saladnga/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
@@ -64,6 +65,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0133-clone-graph](https://github.com/saladnga/LeetCode-Problems/tree/main/0133-clone-graph/) | Medium |
 | [0217-contains-duplicate](https://github.com/saladnga/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/saladnga/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/saladnga/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0480-sliding-window-median](https://github.com/saladnga/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -72,6 +74,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saladnga/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0480-sliding-window-median](https://github.com/saladnga/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -133,6 +136,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saladnga/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1603-design-parking-system](https://github.com/saladnga/LeetCode-Problems/tree/main/1603-design-parking-system/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -144,6 +148,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0049-group-anagrams](https://github.com/saladnga/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/saladnga/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/saladnga/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/saladnga/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +179,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saladnga/LeetCode-Problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/saladnga/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,4 +214,12 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [1795-rearrange-products-table](https://github.com/saladnga/LeetCode-Problems/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/saladnga/LeetCode-Problems/tree/main/1873-calculate-special-bonus/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/saladnga/LeetCode-Problems/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saladnga/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saladnga/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
