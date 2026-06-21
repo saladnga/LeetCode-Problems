@@ -99,6 +99,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/saladnga/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/saladnga/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/saladnga/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/saladnga/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/saladnga/LeetCode-Problems/tree/main/0394-decode-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/saladnga/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
@@ -165,6 +166,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/saladnga/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saladnga/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/saladnga/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0647-palindromic-substrings](https://github.com/saladnga/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
