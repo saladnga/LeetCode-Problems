@@ -1,17 +1,12 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        pairs = {"(": ")", "{": "}", "[": "]"}
         stack = []
-        matching = {'(':')', '{':'}', '[':']'}
-
         for c in s:
-            if c in matching:
+            if c in pairs.keys():
                 stack.append(c)
+            elif stack and c == pairs[stack[-1]]:
+                stack.pop()
             else:
-                if not stack:
-                    return False
-                previous_char = stack[-1]
-                if matching.get(previous_char) != c:
-                    return False
-                else:
-                    stack.pop()
+                return False
         return len(stack) == 0
