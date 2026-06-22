@@ -16,6 +16,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0128-longest-consecutive-sequence](https://github.com/saladnga/LeetCode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/saladnga/LeetCode-Problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saladnga/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/saladnga/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/saladnga/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/saladnga/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/saladnga/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -87,6 +88,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saladnga/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/saladnga/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0367-valid-perfect-square](https://github.com/saladnga/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -167,6 +169,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0011-container-with-most-water](https://github.com/saladnga/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saladnga/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/saladnga/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/saladnga/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0647-palindromic-substrings](https://github.com/saladnga/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
