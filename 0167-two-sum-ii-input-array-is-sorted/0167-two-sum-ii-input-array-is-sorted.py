@@ -7,6 +7,6 @@ class Solution:
                 return [left + 1, right + 1]
             elif curr < target:
                 left += 1
-            else:
+            elif curr > target:
                 right -= 1
         return [0, 0]
