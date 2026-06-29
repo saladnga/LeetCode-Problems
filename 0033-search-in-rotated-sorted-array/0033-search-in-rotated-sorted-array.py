@@ -6,12 +6,13 @@ class Solution:
             if nums[mid] == target:
                 return mid
             
-            # Ascending half
+            # Left Ascending half
             if nums[mid] >= nums[left]:
                 if nums[left] <= target <= nums[mid]:
                     right = mid - 1
                 else:
                     left = mid + 1
+            # Right Ascending half
             else:
                 if nums[right] >= target >= nums[mid]:
                     left = mid + 1
