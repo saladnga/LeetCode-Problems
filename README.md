@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0001-two-sum](https://github.com/saladnga/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/saladnga/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/saladnga/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/saladnga/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/saladnga/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/saladnga/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saladnga/LeetCode-Problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -88,6 +89,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/saladnga/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saladnga/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saladnga/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0367-valid-perfect-square](https://github.com/saladnga/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
