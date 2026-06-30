@@ -73,11 +73,13 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0217-contains-duplicate](https://github.com/saladnga/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/saladnga/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/saladnga/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/saladnga/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0480-sliding-window-median](https://github.com/saladnga/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saladnga/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/saladnga/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0480-sliding-window-median](https://github.com/saladnga/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -110,6 +112,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | [0125-valid-palindrome](https://github.com/saladnga/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/saladnga/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/saladnga/LeetCode-Problems/tree/main/0394-decode-string/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/saladnga/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/saladnga/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
