@@ -64,6 +64,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saladnga/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saladnga/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/saladnga/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/saladnga/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saladnga/LeetCode-Problems/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -76,6 +77,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saladnga/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0480-sliding-window-median](https://github.com/saladnga/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -102,6 +104,7 @@ This repository contains my solutions to LeetCode problems that I’ve solved. E
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saladnga/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/saladnga/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/saladnga/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/saladnga/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
